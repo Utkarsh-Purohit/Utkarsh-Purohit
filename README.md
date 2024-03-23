@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-purohit&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-purohit" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **C , C++ , Python, HTML, CSS**
+- 💬 Ask me about **C , C++ , Python, HTML, CSS, Javascript, ReactJS, Typescript**
 
 - 📫 How to reach me **utkarshpurohit03@gmail.com**
 
