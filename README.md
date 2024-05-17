@@ -24,8 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-purohit&show_icons=true&locale=en" alt="utkarsh-purohit" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkarsh-Purohit&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-purohit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-purohit" alt="utkarsh-purohit" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-purohit&" alt="utkarsh-purohit" /></p>
