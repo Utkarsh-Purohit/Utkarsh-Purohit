@@ -2,7 +2,7 @@
 <h3 align="center">A Competitive Programmer and Developer from India</h3>
 
 - 💬 Ask me about **ReactJS, C++, NodeJS, Javascript**
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Django**
 - 📫 How to reach me **utkarshpurohit03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
