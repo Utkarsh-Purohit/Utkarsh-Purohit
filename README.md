@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Purohit</h1>
 <h3 align="center">A Competitive Programmer and Developer from India</h3>
 
-- 💬 Ask me about **ReactJS, C++, NodeJS, Javascript**
+- 💬 Ask me about **C++, Python , Javascript , ReactJS , NodeJS**
 - 🌱 I’m currently learning **Django**
 - 📫 How to reach me **utkarshpurohit03@gmail.com**
 
